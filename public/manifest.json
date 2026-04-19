@@ -5,6 +5,7 @@
   "manifest_version": 1,
   "author": "chipmunk121",
   "icon": "/icons/boot.svg",
+  "popover": "https://chipmunk121.github.io/obr-speed-tracker/action.html",
   "action": {
     "title": "Speed Tracker",
     "icon": "/icons/boot.svg",
