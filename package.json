@@ -1,0 +1,18 @@
+{
+  "name": "obr-speed-tracker",
+  "version": "1.0.0",
+  "description": "Token speed tracking extension for Owlbear Rodeo",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@owlbear-rodeo/sdk": "^2.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "vite": "^5.0.0"
+  }
+}
