@@ -4,11 +4,11 @@
   "version": "1.0.0",
   "manifest_version": 1,
   "author": "chipmunk121",
-  "icon": "/icons/boot.svg",
-  "popover": "https://chipmunk121.github.io/obr-speed-tracker/action.html",
+  "icon": "https://chipmunk121.github.io/obr-speed-tracker/icons/boot.svg"
   "action": {
     "title": "Speed Tracker",
     "icon": "/icons/boot.svg",
-    "popover": "/action.html"
-  }
+    "popover": "https://chipmunk121.github.io/obr-speed-tracker/action.html"
+  },
+  "background": "https://chipmunk121.github.io/obr-speed-tracker/background.html"
 }
