@@ -1,4 +1,4 @@
-import OBR, { buildLabel, buildPath, Item, Vector2, PathCommand } from "@owlbear-rodeo/sdk";
+import OBR, { buildLabel, buildPath, Item, Vector2 } from "@owlbear-rodeo/sdk";
 import { EXT_ID, SPEED_META_KEY, USED_META_KEY } from "./constants";
 import { getPxPerFoot, pixelDistance, pxToFeet } from "./gridUtils";
 
@@ -56,8 +56,8 @@ async function drawRuler(
     .id(RULER_LINE_ID)
     .position({ x: 0, y: 0 })
     .commands([
-      [PathCommand.MOVE, start.x, start.y],
-      [PathCommand.LINE, end.x,   end.y],
+      [1, start.x, start.y],
+      [2, end.x,   end.y],
     ])
     .strokeColor(color)
     .strokeWidth(4)
