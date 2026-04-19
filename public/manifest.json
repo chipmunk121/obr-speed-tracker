@@ -1,5 +1,6 @@
 {
-  "author": "your-github-username",
+  "manifest_version": 1,
+  "author": "chipmunk121",
   "name": "Speed Tracker",
   "version": "1.0.0",
   "description": "Track token movement speed like Foundry VTT. Right-click a character token to set speed in feet; a custom Move tool shows a live colour-coded ruler with remaining movement and dashing status.",
