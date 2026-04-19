@@ -9,6 +9,5 @@
     "title": "Speed Tracker",
     "icon": "/icons/boot.svg",
     "popover": "https://chipmunk121.github.io/obr-speed-tracker/action.html"
-  },
-  "background": "https://chipmunk121.github.io/obr-speed-tracker/background.html"
+  }
 }
