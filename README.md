@@ -6,10 +6,10 @@ A [Owlbear Rodeo](https://owlbear.rodeo) extension that tracks token movement sp
 
 - **Right-click any character token → Set Speed** to assign a speed in feet
 - A custom **Speed Move tool** (press `M`) that shows a live colour-coded ruler while dragging:
-  - 🟢 Green — plenty of movement left
-  - 🟡 Yellow — approaching your limit (>75% used)
-  - 🔴 Red — dashing (past speed, within 2× speed)
-  - ⬛ Dark red — over dash limit
+  -  Green — plenty of movement left
+  -  Yellow — approaching your limit (>75% used)
+  -  Red — dashing (past speed, within 2× speed)
+  -  Dark red — over dash limit
 - Ruler label shows `feet moved (feet remaining / total speed)` and a `[DASHING]` tag
 - Movement is **persistent across drags** within a turn — a token that used 20 of its 30 ft is tracked
 - **Action panel** (top-left boot icon) lets the GM:
