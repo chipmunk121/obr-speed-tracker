@@ -6,12 +6,8 @@
   "author": "chipmunk121",
   "icon": "/icons/boot.svg",
   "action": {
-  "title": "Speed Tracker",
-  "icon": "/icons/boot.svg",
-  "popover": "/action.html"
-},
-
-  "background": {
-    "url": "/background.html"
-  }
+    "title": "Speed Tracker",
+    "icon": "/icons/boot.svg",
+    "popover": "/action.html"
+  },
 }
