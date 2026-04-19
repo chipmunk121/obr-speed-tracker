@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "manifest_version": 1,
   "author": "chipmunk121",
-  "icon": "https://chipmunk121.github.io/obr-speed-tracker/icons/boot.svg"
+  "icon": "https://chipmunk121.github.io/obr-speed-tracker/icons/boot.svg",
   "action": {
     "title": "Speed Tracker",
     "icon": "/icons/boot.svg",
